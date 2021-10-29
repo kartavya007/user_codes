@@ -32,8 +32,5 @@ def sign():
         db.session.add(enter)
         db.session.commit()
     return render_template('index.html')
-@app.route("/")
-def hello_world():
-    return "<p>Hello, World!</p>"
 if __name__=="__main__":
     app.run(debug=True)
