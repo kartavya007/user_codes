@@ -5,7 +5,6 @@
         "local_uri": "sqlite:///karu.db",
         "prod_uri": "mysql://root:@localhost/kart_user",
         "UPLOAD_LOCATION":  "C:\\Users\\KARTA\\PycharmProjects\\flask2\\static" ,
-        "gmail_user":"helllobro2k18@gmail.com",
-        "gmail_passw":"reks4844"
+        
     }
 }
